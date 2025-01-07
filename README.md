@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker App
 
 ## Description
@@ -17,3 +18,6 @@ A simple command-line application to track your expenses.
 
 ## Author
 Created by [Ashish Sahu].
+=======
+# Expense-Tracker
+>>>>>>> 6e49ce4a1e9896d4cf65f28abfb579d7e4e54ce2
