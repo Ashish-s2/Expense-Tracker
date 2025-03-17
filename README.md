@@ -11,7 +11,7 @@ A simple command-line application to track your expenses.
 
 ## How to Use
 1. Run the application:
-2. Follow the menu options to add or view expenses.
+2. Follow the menu options to add or view expenses or
 
 ## Requirements
 - Python 3.x
