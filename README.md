@@ -2,7 +2,7 @@
 # Expense Tracker App
 
 ## Description
-A simple command-line application to track your expenses.
+A simple command-line application to track your expenses and
 
 ## Features
 - Add expenses
